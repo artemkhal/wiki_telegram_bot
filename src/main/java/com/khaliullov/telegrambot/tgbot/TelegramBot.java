@@ -1,4 +1,4 @@
-package com.khaliullov.telegrambot;
+package com.khaliullov.telegrambot.tgbot;
 
 
 import lombok.AccessLevel;

@@ -1,7 +1,9 @@
-package com.khaliullov.telegrambot;
+package com.khaliullov.telegrambot.tgbot;
 
+import com.khaliullov.telegrambot.Jwiki;
 import com.khaliullov.telegrambot.entity.RequestEntity;
 import com.khaliullov.telegrambot.repo.EntityRepository;
+import com.khaliullov.telegrambot.tgbot.BotKeyboard;
 import lombok.AccessLevel;
 import lombok.experimental.FieldDefaults;
 import lombok.extern.slf4j.Slf4j;
